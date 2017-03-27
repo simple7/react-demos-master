@@ -1,0 +1,261 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"f",
+				"for\tfor (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"anima",
+				"animation-timing-function"
+			],
+			[
+				"anma",
+				"animation-direction"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"tr",
+				"transform"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"fun",
+				"function〔keyword〕"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"st",
+				"style\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 147.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"view",
+				"View: Toggle Open Files in Side Bar"
+			]
+		],
+		"width": 521.0
+	},
+	"console":
+	{
+		"height": 305.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/simple/Downloads/react-demos-master/demo01/index.html",
+		"/Users/simple/Downloads/jquery-3.1.1.js",
+		"/Users/simple/Library/Application Support/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/Users/simple/Documents/study/day01/webpack_demo/public/index.html",
+		"/Users/simple/Documents/study/day01/webpack_demo/app/hello.js",
+		"/Users/simple/Documents/study/day01/webpack_demo/app/entry.js",
+		"/Users/simple/Documents/study/day01/webpack_demo/webpack.config.js",
+		"/Users/simple/Downloads/screen.css",
+		"/Users/simple/Documents/study/day01/test.js",
+		"/Users/simple/Documents/study/day01/test.css",
+		"/Users/simple/Documents/study/day01/test.html",
+		"/Users/simple/Documents/study/day01/webpack_demo/package.json",
+		"/Users/simple/Library/Application Support/Sublime Text 3/Packages/JsFormat/JsFormat.sublime-settings",
+		"/Users/simple/Documents/study/day01/worker.html",
+		"/Users/simple/Documents/study/day01/worker.js",
+		"/Users/simple/Documents/study/JSDemo/jsDemo.html",
+		"/Users/simple/Documents/学习/day01/test.css",
+		"/Users/simple/Documents/学习/test.js",
+		"/Users/simple/Documents/学习/day01/test.html",
+		"/Users/simple/Downloads/JSDemo/jsDemo.html",
+		"/usr/local/apache-tomcat-9.0.0.M17/bin/startup.sh",
+		"/Users/simple/Documents/学习/JSDemo/jsDemo.html",
+		"/Users/simple/Documents/学习/JSDemo/scripts/js/demo.js",
+		"/Users/simple/Documents/学习/day01/test.js",
+		"/Users/simple/Downloads/apache-tomcat-9.0.0.M17/bin/startup.bat",
+		"/Users/simple/Documents/学习/day01/tetst.html",
+		"/Users/simple/Documents/学习/tetst.html",
+		"/Users/simple/Library/Application Support/Sublime Text 3/Packages/Colorsublime/Colorsublime.sublime-settings",
+		"/Users/simple/Library/Application Support/Sublime Text 3/Packages/User/Colorsublime.sublime-settings",
+		"/Users/simple/Documents/学习/untitled",
+		"/Users/simple/Library/Application Support/Sublime Text 3/Packages/User/test.js"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"factory",
+			"script",
+			">",
+			"addTag",
+			"containsTag"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
